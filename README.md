@@ -1,0 +1,2 @@
+# SourceCodeReadingNotes-Strive
+SourceCodeReadingNotes
